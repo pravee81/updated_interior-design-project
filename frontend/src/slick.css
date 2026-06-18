@@ -1,0 +1,3 @@
+/* minimal slick css fallback */
+.slick-slider { position: relative; display: block; }
+.slick-slide { display: inline-block; }
