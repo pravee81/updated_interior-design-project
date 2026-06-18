@@ -1,3 +1,4 @@
+
 # Interior Design — Updated Fullstack (No Docker)
 
 This package contains an updated frontend (React + Tailwind) with an attractive theme, image slider, cart functionality, and enhanced admin UI.
